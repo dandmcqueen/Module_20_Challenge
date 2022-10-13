@@ -19,6 +19,7 @@ This project uses Solidity 0.5.0 or later and was developed in Remix IDE
 
 
 Clone repo
+
 Compile and deploy *joint_savings.sol*
 
 ---
